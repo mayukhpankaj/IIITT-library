@@ -6,4 +6,4 @@ PHP, MySQL, CSS, HTML5 have been used for development ,hosted on local apache se
 
 A project for my college library.
 
-[Preview](https://i.imgur.com/0jQ49dJ.gif)
+![Preview](https://i.imgur.com/0jQ49dJ.gif)
